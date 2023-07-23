@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Nodejs
+Front-end developer @Toggelhead 
 
 
 # 💻 Tech Stack:
